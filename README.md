@@ -31,7 +31,7 @@ O programa pede ao usuário **dois números** e uma **operação** (`+`, `-`, `*
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/Lebot007/-gqs-algoritmo-02-py.git
+git clone https://github.com/Lebot007/gqs-algoritmo-02-py.git
 ```
 
 2. Entre na pasta do projeto:
